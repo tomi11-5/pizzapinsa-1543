@@ -1,9 +1,6 @@
 import { motion } from "motion/react";
 
-const platforms = [
-  { name: "Glovo", href: "https://glovoapp.com", color: "#FFC244" },
-  { name: "Just Eat", href: "https://www.just-eat.es", color: "#FF8000" },
-];
+const platforms = [{ name: "Glovo", href: "https://glovoapp.com", color: "#FFC244" }];
 
 export function OrderCta() {
   return (
