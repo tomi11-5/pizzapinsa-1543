@@ -36,13 +36,13 @@ export function About() {
             Una pasión italiana, <span className="italic text-[var(--tomato)]">hecha en Tenerife</span>
           </h2>
           <p className="font-body text-[var(--charcoal)]/80 text-lg mt-6 leading-relaxed">
-            Nacimos en Candelaria con un sueño sencillo: traer la auténtica pizza napolitana y la pinsa
+            Nacimos en Candelaria con un sueño sencillo: traer la auténtica pizza y pinsa
             romana a la costa de Tenerife, respetando cada paso de la tradición italiana. Masa madre,
             harinas seleccionadas, horno de leña e ingredientes frescos son nuestra receta de siempre.
           </p>
           <p className="font-body text-[var(--charcoal)]/80 text-lg mt-4 leading-relaxed">
             Pero Pura Passione es también un lugar de encuentro: una casa abierta, familiar e inclusiva,
-            donde cada persona —sin importar quién sea o a quién ame— es bienvenida a nuestra mesa.
+            donde cada persona sin importar quién sea o a quién ame es bienvenida a nuestra mesa.
           </p>
 
           <div className="grid grid-cols-3 gap-4 mt-10">
