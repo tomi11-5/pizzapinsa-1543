@@ -6,7 +6,7 @@ export function Hero() {
     <section id="top" className="relative min-h-[92vh] flex items-end md:items-center overflow-hidden pt-24 md:pt-32">
       <div className="absolute inset-0">
         <img
-          src="/images/WhatsApp Image 2026-08-27 at 00.30.56 (1).jpeg"
+          src="/images/WhatsApp Image 2026-08-27 at 00.30.57 (1).jpeg"
           alt="Pizza margherita recién horneada de Pura Passione"
           className="w-full h-full object-cover"
         />
