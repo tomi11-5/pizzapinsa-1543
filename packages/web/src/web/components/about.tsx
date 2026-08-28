@@ -13,7 +13,7 @@ export function About() {
           className="relative"
         >
           <img
-            src="/images/dough.jpg"
+            src="/images/WhatsApp Image 2026-08-27 at 00.30.56 (1).jpeg"
             alt="Masa de pizza estirada a mano artesanalmente"
             className="rounded-[2rem] w-full h-[420px] md:h-[520px] object-cover shadow-xl"
           />
