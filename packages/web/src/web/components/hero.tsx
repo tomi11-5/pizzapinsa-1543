@@ -6,7 +6,7 @@ export function Hero() {
     <section id="top" className="relative min-h-[92vh] flex items-end md:items-center overflow-hidden pt-24 md:pt-32">
       <div className="absolute inset-0">
         <img
-          src="images.png"
+          src="/pizza.jpeg"
           alt="Pizza margherita recién horneada de Pura Passione"
           className="w-full h-full object-cover"
         />
